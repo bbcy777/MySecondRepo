@@ -1,1 +1,2 @@
 My example file was gone
+changing branch will hide original branch file
